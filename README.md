@@ -17,6 +17,6 @@ https://github.com/diaz4674/Poppy-Central/tree/main/poppy-central
 POST: /signatureCard
 Given the data sent to endpoint, takes that data and puts them in the stored PDF file, and send back the signature card PDF file.
 
-POST: /signatureCard
+POST: /resolution
 Given the data sent to endpoint, takes that data and puts them in the stored PDF file, and send back the resoluition PDF file.
 
